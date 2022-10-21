@@ -1,0 +1,8 @@
+site_name: "trilarun"
+site_description: "just a sample website"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
